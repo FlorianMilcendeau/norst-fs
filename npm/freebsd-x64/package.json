@@ -1,5 +1,5 @@
 {
-  "name": "@rs/fs-freebsd-x64",
+  "name": "@norst/fs-freebsd-x64",
   "version": "0.0.0",
   "os": [
     "freebsd"

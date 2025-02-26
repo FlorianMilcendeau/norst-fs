@@ -1,3 +1,3 @@
-# `@rs/fs-darwin-x64`
+# `@norst/fs-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@rs/fs`
+This is the **x86_64-apple-darwin** binary for `@norst/fs`

@@ -1,3 +1,3 @@
-# `@rs/fs-linux-x64-gnu`
+# `@norst/fs-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `@rs/fs`
+This is the **x86_64-unknown-linux-gnu** binary for `@norst/fs`
