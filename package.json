@@ -1,11 +1,9 @@
 {
   "name": "@norst/fs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": {
-    "url": "https://github.com/FlorianMilcendeau/norst-fs"
-  },
+  "repository": "https://github.com/FlorianMilcendeau/norst-fs",
   "author": "MILCENDEAU Florian",
   "bugs": {
     "url": "https://github.com/FlorianMilcendeau/norst-fs/issues"
