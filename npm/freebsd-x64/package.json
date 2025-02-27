@@ -1,6 +1,7 @@
 {
   "name": "@norst/fs-freebsd-x64",
   "version": "0.0.4",
+  "repository": "https://github.com/FlorianMilcendeau/norst-fs",
   "os": [
     "freebsd"
   ],

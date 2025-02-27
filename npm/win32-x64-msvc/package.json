@@ -1,6 +1,7 @@
 {
   "name": "@norst/fs-win32-x64-msvc",
   "version": "0.0.4",
+  "repository": "https://github.com/FlorianMilcendeau/norst-fs",
   "os": [
     "win32"
   ],

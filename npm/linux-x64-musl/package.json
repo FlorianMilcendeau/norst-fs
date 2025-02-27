@@ -1,6 +1,7 @@
 {
   "name": "@norst/fs-linux-x64-musl",
   "version": "0.0.4",
+  "repository": "https://github.com/FlorianMilcendeau/norst-fs",
   "os": [
     "linux"
   ],
