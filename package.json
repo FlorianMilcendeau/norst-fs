@@ -3,6 +3,14 @@
   "version": "0.0.2",
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": {
+    "url": "https://github.com/FlorianMilcendeau/norst-fs"
+  },
+  "author": "MILCENDEAU Florian",
+  "bugs": {
+    "url": "https://github.com/FlorianMilcendeau/norst-fs/issues"
+  },
+  "homepage": "https://github.com/FlorianMilcendeau/norst-fs#readme",
   "napi": {
     "name": "fs",
     "triples": {
