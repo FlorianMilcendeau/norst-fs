@@ -1,0 +1,1 @@
+{"id":1,"name":"John Doe","email":"john.doe@example.com","age":30,"isActive":true,"address":{"street":"123 Main St","city":"New York","state":"NY","zipCode":"10001"},"phoneNumbers":[{"type":"home","number":"212-555-1234"},{"type":"work","number":"646-555-4567"}],"createdAt":"2023-10-01T12:34:56Z","updatedAt":"2023-10-05T09:12:34Z"}
